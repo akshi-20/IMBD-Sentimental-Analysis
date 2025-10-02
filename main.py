@@ -44,7 +44,7 @@ This app predicts whether a movie review is **Positive** or **Negative** using a
 - Click 'Classify' to see the sentiment.
 - The model predicts based on the IMDB dataset.
 """)
-st.sidebar.markdown("Developed by **Your Name** | ML & NLP Enthusiast")
+st.sidebar.markdown("Developed by **Akshita** | ML & NLP Enthusiast")
 
 # Home page / Title & instructions
 st.markdown("""
