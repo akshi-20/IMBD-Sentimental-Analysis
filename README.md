@@ -3,6 +3,7 @@
 A Streamlit-based deep learning web app for sentiment analysis of IMDB movie reviews. Uses a pre-trained RNN to classify reviews as Positive 😊 or Negative 😞. Built on the IMDB dataset.
 
 
+
 ✨ Features
 
 Interactive text input for real-time sentiment predictions.
@@ -71,6 +72,7 @@ Streamlit for the interactive UI.
 👩‍💻 Author
 Akshi — Machine Learning & NLP Enthusiast📍 GitHub: akshi-20
 ⭐ Star if useful! 🚀
+
 
 
 
